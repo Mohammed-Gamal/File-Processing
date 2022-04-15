@@ -11,4 +11,4 @@
      → deletion
      
 # Menu
-<img src="https://i.ibb.co/SJbZP5G/1.png">
+![Menu Image](https://i.ibb.co/SJbZP5G/1.png)
